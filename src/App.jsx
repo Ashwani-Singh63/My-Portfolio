@@ -6,7 +6,7 @@ import Navbar from './components/Navbar'
 function App() {
 
   return (
-    <div className=' text-white w-full h-screen bg-gray-900 '>
+    <div className=' text-white w-full h-screen bg-gray-800 '>
       <Navbar/>
       <Home/>
       <Footer/>
